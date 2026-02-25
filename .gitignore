@@ -1,0 +1,31 @@
+/.vscode
+/.env
+/crops
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data and Weights (Important for your project)
+data/
+*.pt
+*.pth
+*.h5
+*.joblib
+weights/
+src/weights/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
